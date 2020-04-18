@@ -1,0 +1,364 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Newsletter</title>
+</head>
+
+<body  topmargin="0" leftmargin="150" rightmargin="150" bottommargin="0">
+<div align="center">
+
+	<table border="0" width="200" cellspacing="0" cellpadding="0" >
+		<tr>
+			<td>
+			<table border="0" width="100%" cellpadding="0" style="border-collapse: collapse" bgcolor="#13274A">
+				<tr align ="center">
+					<td><img src ="Logo_vector.jpg" width="150" height="170" />
+					</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>
+					<p align="center"><b><font face="Arial" size="4" color="#FFFFFF"><i>INDIAN GAMING LEAGUE</i></font></b></p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+					<p align="center">
+					<b><font face="Arial" size="6.5" color="yellow"><i>NEWSLETTER</i></font></b></p>
+				</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>
+					<img src ="cover.png"  width="400" height="250" />
+				</td>
+				</tr>
+				<tr >
+					<td>
+						<p align="center">
+						<font face="Arial" size="6" color="yellow"><b><i>PLAYER OF THE MONTH</i></b></font>
+						</p>
+					</td>
+					
+				</tr>		
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				
+
+					<tr>
+					<td style="padding:0 0px 0 60px;"> 
+					<img src="player.png" width="220" height="250" align="left">
+
+					<br>
+					<font face="Arial" font size="3" color="#FFFFFF"><b><i>&emsp;&emsp;Mohd Danish aka Eyerise has been declared as IGL's player of <br>
+					&emsp;&emsp;the Month for March 2020, winning the title for the second <br>
+					&emsp;&emsp;consecutive time. Danish has remained undefeated in 8 IGL<br>
+					&emsp;&emsp;competitions and has ranked amongst the top 3 in 24<br>
+					&emsp;&emsp;competitons on the IGL platform in March.<br> 
+					&emsp;&emsp;Eyerise has participated in a number of tournaments including<br>
+					&emsp;&emsp;Pubg Mobile, Call of Duty Mobile, 8 Ball Pool, Ludo King,<br>
+					&emsp;&emsp;Smashing four and more. Eyerise has won over 8000 IGL Coins<br>
+					&emsp;&emsp;in the month of March itself.<br>
+					</i></b></font>
+					<font face="Arial" font size="4" color="yellow"><b><i>&emsp;&ensp;&nbsp;#ItPaysToPlay</i></b></font>
+					</td>	
+                  </tr>
+                 
+                  <tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				
+				<tr>
+					<td style="padding:0px 0px 0px 350px;">
+						
+						
+						<img src ="Logo_vector.jpg" width="100" align="left"/>
+						<br>
+						<br>
+
+						<font face="Arial" font size="2" color="#FFFFFF"><b><i>&nbsp; TOURNAMENT SCHEDULE<br></i></b></font>
+						<font face="Arial" font size="5" color="#FFFFFF"><b><i>&nbsp;APRIL <font color="yellow"> &nbsp;2020</font></i></b></font><br>
+					    <font face="Arial" font size="2" color="#FFFFFF"><b><i>&nbsp; WWW.IGLNETWORK.COM</i></b></font>
+					</td>	
+					</tr>	
+
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+
+				<tr>
+					<td>
+						<p align="left">
+					<img border="0" src="tournament_1.png" width="900" height="500" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p align="left">
+					<img border="0" src="tournament_2.png" width="900" height="500" />
+					</td>
+				</tr>	
+		 
+		       <tr>
+					<td>
+					&nbsp;</td>
+				</tr>
+				 <tr>
+					<td>
+					&nbsp;</td>
+				</tr>
+				
+				 <tr>
+					<td>
+					<p align="center"><font face="Arial" font size="6" color="#FFFFFF"><b><i>IGL HALL OF FAME</i></b></font></td>
+				</tr>
+
+
+	
+
+				<tr>
+					<td>
+					<p align="center">
+					<img border="0" src="https://iglnetwork.com/assets/mailer_images/shadow_sep_inverse.jpg" width="896" height="39"></td>
+				</tr>
+
+
+				<tr>
+					<td style="padding-left:50px;">
+						&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;
+						<img src="Pubg.png" width="80" height="60"/> &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+						<img src="COD.jpg" width="80" height="60"/> 
+						<font >
+						<br>
+						&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+						<img src="utkarsh.png" width="200" height="210" />&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;
+						<img src="Dhrumil.png" width="200" height="210"/>
+
+						<br>
+						<font face="Arial" font size="3" color="#FFFFFF"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Utkarsh aka Utkarshut
+							&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;
+								Dhrumil aka 2NUB4U</i></b></font>
+							<br>
+
+ 						<font face="Arial" font size="2" color="yellow"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+ 							&emsp;&emsp;Podium Wins:
+ 							<font face="Arial" font size="2" color="#FFFFFF"><b><i>6 wins out of 12</i></b></font>
+ 						<font face="Arial" font size="2" color="yellow"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Podium Wins:
+ 							<font face="Arial" font size="2" color="#FFFFFF"><b><i>7 wins out of 8</i></b></font>
+ 							<br>
+ 							
+ 							<font face="Arial" font size="2" color="yellow"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Total Winnings:
+ 							<font face="Arial" font size="2" color="#FFFFFF"><b><i>6500 IGL Coins</i></b></font>
+ 							<font face="Arial" font size="2" color="yellow"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Total Winnings:
+ 							<font face="Arial" font size="2" color="#FFFFFF"><b><i>6500 IGL Coins</i></b></font>
+ 							<br>
+
+
+					</td>
+
+				</tr>	
+
+				<tr>
+					<td>
+					&nbsp;</td>
+				</tr>
+				<tr>
+					<td>
+					&nbsp;</td>
+				</tr>
+
+				<tr>
+					<td style="padding-left:50px;">
+						&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;
+						<img src="COD_battleroyale.png" width="80" height="60"/> &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+						<img src="ludo_king.jpg" width="80" height="60"/> 
+						<font >
+						<br>
+						&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+						<img src="ashish.png" width="200" height="210" />&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;
+						<img src="srishti.png" width="200" height="210"/>
+
+						<br>
+						<font face="Arial" font size="3" color="#FFFFFF"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ashish aka BeastSentry
+							&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;
+								Srishti aka Slayer007</i></b></font>
+							<br>
+
+ 						<font face="Arial" font size="2" color="yellow"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+ 							&emsp;&emsp;Podium Wins:
+ 							<font face="Arial" font size="2" color="#FFFFFF"><b><i>3 wins out of 5</i></b></font>
+ 						<font face="Arial" font size="2" color="yellow"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Podium Wins:
+ 							<font face="Arial" font size="2" color="#FFFFFF"><b><i>5 wins out of 8</i></b></font>
+ 							<br>
+ 							
+ 							<font face="Arial" font size="2" color="yellow"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Total Winnings:
+ 							<font face="Arial" font size="2" color="#FFFFFF"><b><i>2000 IGL Coins</i></b></font>
+ 							<font face="Arial" font size="2" color="yellow"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Total Winnings:
+ 							<font face="Arial" font size="2" color="#FFFFFF"><b><i>3150 IGL Coins</i></b></font>
+ 							<br>
+
+
+					</td>
+
+				</tr>	
+				<tr>
+					<td>
+					&nbsp;</td>
+				</tr>
+				<tr>
+					<td>
+					&nbsp;</td>
+				</tr>
+
+				<tr>
+					<td style="padding-left:50px;">
+						&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;
+						<img src="fort.png" width="80" height="50"/> &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+						<img src="ballpool.jpg" width="80" height="60"/> 
+						<font >
+						<br>
+						&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+						<img src="varun.png" width="200" height="210" />&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;
+						<img src="nasir.png" width="200" height="210"/>
+
+						<br>
+						<font face="Arial" font size="3" color="#FFFFFF"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Varun aka Deathwish1104
+							&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;Nasir Patel</i></b></font>
+							<br>
+
+ 						<font face="Arial" font size="2" color="yellow"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+ 							&emsp;&emsp;Podium Wins:
+ 							<font face="Arial" font size="2" color="#FFFFFF"><b><i>2 wins out of 3</i></b></font>
+ 						<font face="Arial" font size="2" color="yellow"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Podium Wins:
+ 							<font face="Arial" font size="2" color="#FFFFFF"><b><i>4 wins out of 8</i></b></font>
+ 							<br>
+ 							
+ 							<font face="Arial" font size="2" color="yellow"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Total Winnings:
+ 							<font face="Arial" font size="2" color="#FFFFFF"><b><i>1300 IGL Coins</i></b></font>
+ 							<font face="Arial" font size="2" color="yellow"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Total Winnings:
+ 							<font face="Arial" font size="2" color="#FFFFFF"><b><i>2800 IGL Coins</i></b></font>
+ 							<br>
+
+
+					</td>
+
+				</tr>	
+				<tr>
+					<td>
+					&nbsp;</td>
+				</tr>
+				<tr>
+					<td>
+					&nbsp;</td>
+				</tr>
+				<tr>
+					<td>
+						<p align="center"><font face="Arial" font size="6" color="#FFFFFF"><b><i>IGL ESSENTIALS</i></b></font></td>
+
+					</td>
+				</tr>
+				<tr>
+					<td>
+					&nbsp;</td>
+				</tr>
+				<tr>
+					<td style="padding-left:200px;">
+						<img src ="igltv.png" width="150" height="180" />
+						&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;
+						<img src="new_game.png" width="200" height="210"/>
+						<br>
+						<font face="Arial" font size="3" color="#FFFFFF"><b><i>&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+							IGL will introduce <br>
+							&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Pubg: Lite and Brawl Stars<br>
+						&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; in the month of April.</i></b></font>
+					</td>	
+				</tr>
+				
+
+				  <tr>
+					<td>
+					&nbsp;</td>
+				</tr>
+				 <tr>
+					<td>
+					&nbsp;</td>
+				</tr>
+				<tr>
+					<td>
+					&nbsp;</td>
+				</tr>
+                  <tr> 
+					<td>
+					<p align="center"><b><font color="#FFFFFF" face="Arial">The 
+					IGL Team</font></b></td>
+				</tr>
+				<tr>
+					<td>
+					&nbsp;</td>
+				</tr>
+				<tr>
+					<td>
+					<div align="center">
+						<table border="0" width="100" cellpadding="0" style="border-collapse: collapse">
+							<tr>
+								<td align="center">
+								<a target="_blank" href="https://www.facebook.com/IGLnetwork/">
+								<img border="0" src="https://iglnetwork.com/assets/mailer_images/fb_icon_mailer.jpg" width="87" height="86"></a></td>
+								<td align="center">
+								<a target="_blank" href="https://twitter.com/IGLeSports">
+								<img border="0" src="https://iglnetwork.com/assets/mailer_images/tw_icon_mailer.jpg" width="87" height="86"></a></td>
+								<td align="center">
+								<a target="_blank" href="https://www.youtube.com/c/iglesports">
+								<img border="0" src="https://iglnetwork.com/assets/mailer_images/yt_icon_mailer.jpg" width="87" height="86"></a></td>
+								<td align="center">
+								<a target="_blank" href="https://www.instagram.com/iglnetwork/">
+								<img border="0" src="https://iglnetwork.com/assets/mailer_images/ig_icon_mailer.jpg" width="87" height="86"></a></td>
+							</tr>
+						</table>
+					</div>
+					</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>
+					<img border="0" src="https://iglnetwork.com/assets/mailer_images/footer_shadow_sep.jpg" width="900" height="35"></td>
+				</tr>
+				<tr>
+					<td>
+					<p align="center">
+					<font color="#FFFFFF" face="Arial" size="2">© 2019 Indian 
+					Gaming League. All Rights Reserved.</font></td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</div>
+
+</body>
+
+</html>
